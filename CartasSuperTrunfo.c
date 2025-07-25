@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(){
-    printf("Desafio Triunfo de Cartas\n\n");
+    printf("Desafio Trunfo de Cartas\n\n");
 
     char estadodacarta1[50];
     char estadodacarta2[50];
